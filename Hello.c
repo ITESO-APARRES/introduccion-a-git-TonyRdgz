@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Código en C by Antonio Rodriguez
+//Código en C por Antonio Rodriguez
 
 int main(void){
 	printf("Hola mundo!!");
